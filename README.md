@@ -59,7 +59,7 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 
   <!-- Fun Fact Icon -->
   <p align="center">
-    <img src="https://emojicombos.com/wp-content/uploads/2020/04/rocket-emoji.png](https://thumbs.dreamstime.com/b/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design-264269481.jpg" alt="rocket" width="30" height="30"/>
+    <img src="[https://emojicombos.com/wp-content/uploads/2020/04/rocket-emoji.png](https://thumbs.dreamstime.com/b/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design-264269481.jpg](https://thumbs.dreamstime.com/z/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design-264269481.jpg?ct=jpeg)" alt="rocket" width="30" height="30"/>
   </p>
 
   <!-- Fun Fact Content -->
