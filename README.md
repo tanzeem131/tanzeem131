@@ -59,7 +59,7 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 
   <!-- Fun Fact Icon -->
   <p align="center">
-  <img style="border-radius: 50%;" src="https://thumbs.dreamstime.com/z/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design- 264269481.jpg?ct=jpeg" alt="rocket" width="100" height="100"/>
+    <img src="https://thumbs.dreamstime.com/z/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design-264269481.jpg?ct=jpeg" alt="rocket" width="100" height="100"/>
   </p>
 
 
@@ -72,7 +72,7 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
