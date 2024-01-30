@@ -28,7 +28,6 @@
 ```yaml
 name: Tanzeem
 located_in: Dhanbad, Jharkhand
-current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
