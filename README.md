@@ -72,6 +72,16 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 
 </div>
 
+
+
+<div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+
+  <!-- Fun Fact Icon -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="rocket" width="90%" height="90%"/>
+  </p>
+
+</div>
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
