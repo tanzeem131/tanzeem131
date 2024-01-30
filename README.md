@@ -59,8 +59,9 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 
   <!-- Fun Fact Icon -->
   <p align="center">
-    <img src="https://thumbs.dreamstime.com/z/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design-264269481.jpg?ct=jpeg" alt="rocket" width="80" height="80"/>
+  <img style="border-radius: 50%;" src="https://thumbs.dreamstime.com/z/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design- 264269481.jpg?ct=jpeg" alt="rocket" width="100" height="100"/>
   </p>
+
 
   <!-- Fun Fact Content -->
   <p align="center" style="font-size: 16px; font-weight: bold;">
