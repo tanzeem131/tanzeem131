@@ -19,7 +19,7 @@
 <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-  <a href="dev.tanzeem@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dev.tanzeem@gmail.com">
   <img height="46" width="53" src="https://banner2.cleanpng.com/20171216/aea/gmail-logo-png-5a3553a6e082c3.6128108415134442629196.jpg"/>
 </a>
 </p>
