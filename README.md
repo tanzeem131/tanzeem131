@@ -14,12 +14,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="#">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
-<a href="#">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-<a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="#">
@@ -59,6 +53,22 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 ```
   
 ---  
+
+<!-- Fun Fact Section -->
+<div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+
+  <!-- Fun Fact Icon -->
+  <p align="center">
+    <img src="https://emojicombos.com/wp-content/uploads/2020/04/rocket-emoji.png" alt="rocket" width="30" height="30"/>
+  </p>
+
+  <!-- Fun Fact Content -->
+  <p align="center" style="font-size: 16px; font-weight: bold;">
+    ⚡ Fun fact: I turn caffeine into code, and my favorite debugging tool is a good playlist! 🚀🎧
+  </p>
+
+</div>
+
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
