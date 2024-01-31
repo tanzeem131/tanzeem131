@@ -58,13 +58,10 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 
 <!-- Fun Fact Section -->
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-
   <!-- Fun Fact Icon -->
   <p align="center">
     <img src="https://thumbs.dreamstime.com/z/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design-264269481.jpg?ct=jpeg" alt="rocket" width="100" height="100"/>
   </p>
-
-
   <!-- Fun Fact Content -->
   <p align="center" style="font-size: 16px; font-weight: bold;">
     ⚡ Fun fact: I turn caffeine into code, and my favorite debugging tool is a good playlist! 🚀🎧
@@ -72,6 +69,19 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 
 </div>
 
+[![Devrays's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tanzeem131&hide_border=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-dark-mode-only)
+[![Devrays's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tanzeem131&hide_border=false&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-light-mode-only)
+
+[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com?&hide_border=true&user=tanzeem131&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com?&hide_border=false&user=emmirays&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+
+<!--
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&hide_border=false&layout=compact&theme=default#gh-light-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-light-mode-only)
+-->
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&layout=compact&theme=dark&exclude_repo=Deep-belief-network-ml-project,blood_donation_app)](https://github.com/tanzeem131/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&layout=compact&theme=default&exclude_repo=Deep-belief-network-ml-project,blood_donation_app)](https://github.com/tanzeem131/github-readme-stats#gh-light-mode-only)
 
 
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
