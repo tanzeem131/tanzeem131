@@ -49,9 +49,9 @@ technical_background:
     "Full Stack Developer"
   ]
   
-currently_learning: ["React & Backend development"]
+currently_improving: ["React & Backend development"]
 2024 Goals: ["Create more Capstone Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
+hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy", "Creating wonderful websites"]
 ```
   
 ---  
