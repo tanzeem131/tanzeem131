@@ -60,7 +60,7 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy"]
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <!-- Fun Fact Icon -->
   <p align="center">
-    <img src="https://thumbs.dreamstime.com/z/smiling-emoticon-listening-to-music-face-wearing-sunglasses-headphones-frothy-beer-mug-yellow-background-vector-design-264269481.jpg?ct=jpeg" alt="rocket" width="100" height="100"/>
+    <img src="https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="rocket" width="200" height="150"/>
   </p>
   <!-- Fun Fact Content -->
   <p align="center" style="font-size: 16px; font-weight: bold;">
