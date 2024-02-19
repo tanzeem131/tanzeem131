@@ -25,49 +25,42 @@
 </p>
 
 ---
-
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Tanzeem
-located_in: Dhanbad, Jharkhand
+located_in: India
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's in Computer science",
+    "Bachelor's in Computer science"
   ]
-
 fields_of_interests:
   [
     "Web Development",
-    "UI/UX",
-    "Data Science",
-    "Machine Learning",
+    "UI/UX"
   ]
 technical_background:
   [
-    "Full Stack Developer"
-  ]
-  
-currently_improving: ["React & Backend development"]
-2024 Goals: ["Create more Capstone Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy", "Creating wonderful websites"]
+    "Frontend Developer"
+  ] 
+currently_learning: ["React & Backend development"]
+2024 Goals: ["Create more Capstone Projects and learn at least 3-5 new Technologies."]
+hobbies: [ "Creating wonderful websites", "Watching webseries", "StandupComedy"]
 ```
-  
 ---  
 
-<!-- Fun Fact Section -->
+<!-- Fun Fact Section 
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <!-- Fun Fact Icon -->
   <p align="center">
     <img src="https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="rocket" width="200" height="150"/>
   </p>
-  <!-- Fun Fact Content -->
+  
   <p align="center" style="font-size: 16px; font-weight: bold;">
     ⚡ Fun fact: I turn caffeine into code, and my favorite debugging tool is a good playlist! 🚀🎧
   </p>
-
 </div>
+-->
 
 [![Devrays's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tanzeem131&hide_border=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-dark-mode-only)
 [![Devrays's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tanzeem131&hide_border=false&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-light-mode-only)
@@ -83,15 +76,13 @@ hobbies: ["Gaming", "Watching webseries", "Art", "StandupComedy", "Creating wond
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&layout=compact&theme=dark&exclude_repo=Deep-belief-network-ml-project,blood_donation_app)](https://github.com/tanzeem131/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&layout=compact&theme=default&exclude_repo=Deep-belief-network-ml-project,blood_donation_app)](https://github.com/tanzeem131/github-readme-stats#gh-light-mode-only)
 
-
+<!--
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-
-  <!-- Fun Fact Icon -->
   <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="rocket" width="50%" height="50%"/>
   </p>
-
 </div>
+-->
   
 <h2  align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
