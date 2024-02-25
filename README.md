@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋&height=100&section=header"/>
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect!💬
 </h1>
 
 <p align="center">
@@ -25,42 +25,29 @@
 </p>
 
 ---
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```yaml
-name: Tanzeem
-located_in: India
-education:
+<h2> 👨🏻‍💻 &nbsp;About Me</h2>
+<h3>
+&nbsp;Name: Tanzeem <br>
+&nbsp;Located_in: India<br>
+&nbsp;Education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's in Computer science"
-  ]
-fields_of_interests:
+    "Bachelor of Technology in Computer science"
+  ]<br>
+&nbsp;Fields_of_interests:
   [
     "Web Development",
     "UI/UX"
-  ]
-technical_background:
+  ]<br>
+&nbsp;Technical_background:
   [
     "Frontend Developer"
-  ] 
-currently_learning: ["React & Backend development"]
-2024 Goals: ["Create more Capstone Projects and learn at least 3-5 new Technologies."]
-hobbies: [ "Creating wonderful websites", "Watching webseries", "StandupComedy"]
-```
----  
+  ] <br>
+&nbsp;Currently_learning: ["React & Backend development"]<br>
+&nbsp;2024 Goals: ["Create more Capstone Projects and learn at least 3-5 new Technologies."]<br>
+&nbsp;Hobbies: [ "Creating wonderful websites", "Travelling"]<br>
+<h3/>
 
-<!-- Fun Fact Section 
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <p align="center">
-    <img src="https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="rocket" width="200" height="150"/>
-  </p>
-  
-  <p align="center" style="font-size: 16px; font-weight: bold;">
-    ⚡ Fun fact: I turn caffeine into code, and my favorite debugging tool is a good playlist! 🚀🎧
-  </p>
-</div>
--->
 
 [![Devrays's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tanzeem131&hide_border=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-dark-mode-only)
 [![Devrays's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tanzeem131&hide_border=false&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-light-mode-only)
