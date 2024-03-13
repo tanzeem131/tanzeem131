@@ -55,21 +55,8 @@
 [![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com?&hide_border=true&user=tanzeem131&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com?&hide_border=false&user=emmirays&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
-<!--
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&hide_border=false&layout=compact&theme=default#gh-light-mode-only)](https://github.com/tanzeem131/github-readme-stats#gh-light-mode-only)
--->
-
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&layout=compact&theme=dark&exclude_repo=Deep-belief-network-ml-project,blood_donation_app)](https://github.com/tanzeem131/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&hide_border=true&layout=compact&theme=default&exclude_repo=Deep-belief-network-ml-project,blood_donation_app)](https://github.com/tanzeem131/github-readme-stats#gh-light-mode-only)
-
-<!--
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="rocket" width="50%" height="50%"/>
-  </p>
-</div>
--->
   
 <h2  align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
