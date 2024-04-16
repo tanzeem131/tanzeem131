@@ -43,9 +43,8 @@
   [
     "Frontend Developer"
   ] <br>
-&nbsp;Currently_learning: ["React & Backend development"]<br>
+&nbsp;Currently_learning: ["Backend development"]<br>
 &nbsp;2024 Goals: ["Create more Capstone Projects and learn at least 3-5 new Technologies."]<br>
-&nbsp;Hobbies: [ "Creating wonderful websites", "Travelling"]<br>
 <h3/>
 
 
