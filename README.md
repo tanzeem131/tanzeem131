@@ -43,10 +43,10 @@
 </a>
 <br />
 <br />
-<a href="https://github.com/tanzeem131/TRACKR-MAP-YOUR-WORKOUTS">
+<a href="https://github.com/tanzeem131/forkify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeem131&repo=forkify&theme=buefy" />
 </a>
-  <a href="https://github.com/tanzeem131/React-course">
+  <a href="https://github.com/tanzeem131/TRACKR-MAP-YOUR-WORKOUTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeem131&repo=TRACKR-MAP-YOUR-WORKOUTS&theme=buefy" />
 </a>
 <br />
