@@ -32,25 +32,7 @@
 
 | <a href="https://github.com/tanzeem131/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeem131&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tanzeem131's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&layout=compact&theme=buefy&exclude_repo=Deep-belief-network-ml-project,blood_donation_app&hide_border=true" /></a> |
 | ------------- | ------------- |
-#### Active Repositories
 
-</a>
-<a href="https://github.com/tanzeem131/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeem131&repo=Portfolio&theme=buefy" />
-</a>
-<a href="https://github.com/tanzeem131/React-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeem131&repo=React-course&theme=buefy" />
-</a>
-<br />
-<br />
-<a href="https://github.com/tanzeem131/forkify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeem131&repo=forkify&theme=buefy" />
-</a>
-  <a href="https://github.com/tanzeem131/TRACKR-MAP-YOUR-WORKOUTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeem131&repo=TRACKR-MAP-YOUR-WORKOUTS&theme=buefy" />
-</a>
-<br />
-<br />
 
 
 
