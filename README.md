@@ -26,13 +26,7 @@
 
 - 💻 I am currently learning [React-course](https://github.com/tanzeem131/React-course)
 
-- I ❤️ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /> &  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" />
-
-
-
-| <a href="https://github.com/tanzeem131/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeem131&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tanzeem131's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeem131&layout=compact&theme=buefy&exclude_repo=Deep-belief-network-ml-project,blood_donation_app&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+- I ❤️ both <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /> & <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" />
 
 
 
