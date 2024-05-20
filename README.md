@@ -15,7 +15,7 @@
 </p>
 
 
-<p>I ❤️ writing Softwares applications 💻❄</p>
+<p>I ❤️ writing codes for Software applications 💻 ❄</p>
 
 <br />
 
