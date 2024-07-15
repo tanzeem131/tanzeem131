@@ -21,7 +21,7 @@
 
 
 **Introduction**
-- I only speak one language i,e., <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" />
+- I only ❤️ to write one language i,e., <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" />
 
 - 👨‍💻 Student at  [IIIT DWD](https://www.iiitdwd.ac.in/)
 
