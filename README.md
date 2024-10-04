@@ -17,6 +17,8 @@
 <p>I ❤️ writing code for innovative software applications 💻 ❄</p>
 <br />
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tanzeem131&theme=react-dark&hide_border=true&area=true) <hr>
+
 **Introduction**
 - I only ❤️ to write one language i,e., <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" />
 - 👨‍💻 Student at  [IIIT DWD](https://www.iiitdwd.ac.in/)
