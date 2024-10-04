@@ -1,4 +1,4 @@
-### Hi, I am Tanzeem 
+### Hi there, I'm Tanzeem 
 <p >
 <a href="https://tanzeem.me/">
   <img height="20" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
